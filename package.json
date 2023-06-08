@@ -1,6 +1,6 @@
 {
   "name": "@itsjxyang/git-branch-delete",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A package to delete local Git branches except for 'master'.",
   "main": "deleteBranches.js",
   "bin": {
